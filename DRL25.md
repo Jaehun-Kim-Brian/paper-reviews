@@ -12,7 +12,7 @@ This paper shows that even *strong* Fiat-Shamir (FS) transformations—where the
 
 ## Systems Targeted
 
-- $\text{FS}_h(\Pi_\text{comm,d})$ (a GKR-based protocol with MLPCS commitments)
+- $\text{FS}_h(\prod_\text{comm,d})$ (a GKR-based protocol with MLPCS commitments)
 
 ---
 
