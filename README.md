@@ -6,4 +6,4 @@ Each file includes a summary, key insights, potential implementations, critiques
 ---
 
 - [Weak Fiat-Shamir Attacks on Modern Proof Systems](DMWG23.md)
-- [How to Prove False Statements: Practical Attacks on Fiat-Shamir](.DRL25.md)
+- [How to Prove False Statements: Practical Attacks on Fiat-Shamir](DRL25.md)
